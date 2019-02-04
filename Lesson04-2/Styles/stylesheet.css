@@ -18,6 +18,12 @@ header h3 {
   font-style:italic;
 }
 
+h4{
+  font-family: arial, sans-serif;
+  font-size: 1.3em;
+  color: #4c98b4;
+}
+
 nav {
 	background-color: #f2f2f2;
 	color: darkgray;
@@ -27,6 +33,17 @@ nav {
 .nav-link{
   color: black;
   font-family: arial, sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+
+.nav-virgule {
+  display: inline-block;
+  font-family: arial, sans-serif;
+  color: black;
+
 }
 
 a {
@@ -40,9 +57,7 @@ section {
 	float:left;
   font-family: arial, sans-serif;
 }
-	section:first-of-type h4 {
-	  color:#4c98b4;
-	}
+
 	section:first-of-type p {
 	}
 	section:first-of-type p a {
@@ -50,10 +65,7 @@ section {
 	section h5 {
     color: #76b2c7;
 		font-size:1.5em;
-	}
-
-  section:last-of-type h4 {
-		color:black;
+    font-family: arial, sans-serif;
 	}
 	section:last-of-type p {
 	}
@@ -65,8 +77,15 @@ sidebar {
 	display:inline-block;
 	margin-right:5%;
   font-family: arial, sans-serif;
+  position: relative;
 }
 
 footer {
-	clear:both;
+  clear:both;
+  background-color: #333030;
+  color: white;
+  font-family: arial, sans-serif;
+  text-align: center;
+  padding:5% 13% 10%;
+
 }
