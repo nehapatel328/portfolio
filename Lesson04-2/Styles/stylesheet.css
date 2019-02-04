@@ -78,6 +78,9 @@ sidebar {
 	margin-right:5%;
   font-family: arial, sans-serif;
   position: relative;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  padding-top: 1%;
 }
 
 footer {
@@ -88,4 +91,15 @@ footer {
   text-align: center;
   padding:5% 13% 10%;
 
+}
+
+.footer-link {
+  color: white;
+  padding:1em;
+}
+
+.footer-virgule{
+  color: white;
+  display: inline-block;
+  font-family: arial, sans-serif;
 }
