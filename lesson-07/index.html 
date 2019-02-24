@@ -2,22 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+
     <title>
-      Neha Patel
     </title>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
     <link rel="stylesheet" type="text/css" href="styles/stylesheet.css">
 </head>
 
 <body>
-  <h1>About Me</h1>
-  <nav>
+  <h1></h1>
+  <nav> 
     <ul class="ul-navigation">
       <li class="li-navigation"><a href="index.html" class="a-navigation active">About</a></li>
-      <li class="li-navigation"><a href="resume.html" class="a-navigation">Résumé</a></li>
-      <li class="li-navigation"><a href="portfolio.html" class="a-navigation">Portfolio</a></li>
-      <li class="li-navigation"><a href="contact.html" class="a-navigation">Contact</a></li>
+      <li class="li-navigation"><a href="team.html" class="a-navigation">Our Team</a></li>
     </ul>
   </nav>
 
