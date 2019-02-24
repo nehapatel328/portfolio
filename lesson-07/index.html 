@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>
+      Neha Patel
+    </title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="styles/stylesheet.css">
+</head>
+
+<body>
+  <h1>About Me</h1>
+  <nav>
+    <ul class="ul-navigation">
+      <li class="li-navigation"><a href="index.html" class="a-navigation active">About</a></li>
+      <li class="li-navigation"><a href="resume.html" class="a-navigation">Résumé</a></li>
+      <li class="li-navigation"><a href="portfolio.html" class="a-navigation">Portfolio</a></li>
+      <li class="li-navigation"><a href="contact.html" class="a-navigation">Contact</a></li>
+    </ul>
+  </nav>
+
+    <h2>
+      <i class="fas fa-arrow-circle-right"></i>
+      Who I Am
+    </h2>
+
+    <div class="index-pic">
+      <figure>
+        <img src="neha-portfolio-images/home-photo.jpeg" class="home-photo" alt="headshot for the home page">
+      </figure>
+
+      <article>
+        <h4>Welcome to my Porfolio</h4>
+        <p>Hello! My name is Neha (Nay-ha) Patel. I'm a technical communicator who enjoys articulating complex (and not-so complex) information for buyer personas in keyword-targeted deliverables.</p>
+        <p>Hello! My name is Neha (Nay-ha) Patel. I'm a technical communicator who enjoys articulating complex (and not-so complex) information for buyer personas in keyword-targeted deliverables.</p>
+        <p>Hello! My name is Neha (Nay-ha) Patel. I'm a technical communicator who enjoys articulating complex (and not-so complex) information for buyer personas in keyword-targeted deliverables.</p>
+        <p>Hello! My name is Neha (Nay-ha) Patel. I'm a technical communicator who enjoys articulating complex (and not-so complex) information for buyer personas in keyword-targeted deliverables.</p>
+
+        <p>Check out my <a href="resume.html" target="_blank">résumé</a> to learn more.</p>
+      </article>
+    </div>
+
+
+    <h2>
+      <i class="fas fa-arrow-circle-right"></i>
+      Services
+    </h2>
+
+    <div class="row">
+      <article>
+        <h3 class="column-h3"> <i class="far fa-sticky-note"></i> Writing</h3>
+        <p class="index-column-h3">My writing experiences include technical writing, copywriting, grant writing, and manual writing. I can work with style guides and subject matter experts to write short and long form content for targeted audiences to communicate all sorts of information.</p>
+      </article>
+
+      <article>
+        <h3 class="column-h3"> <i class="fas fa-pen-fancy"></i> Editing</h3>
+        <p class="index-column-h3">I was an Editorial Assistant for two publications: Auburn Speaks and the International Journal of Acoustics and Vibration. I know what it takes to research, write, and schedule articles for print and web publication. Communication and organization are key here.</p>
+      </article>
+
+      <article>
+        <h3 class="column-h3"> <i class="fas fa-code"></i>Front End Development</h3>
+        <p class="index-column-h3">I have been an Editorial Assistant for two publications: Auburn Speaks and the International Journal of Acoustics and Vibration. I know what it takes to research, write, and schedule articles for print and web publication. Communication and organization are key here.</p>
+      </article>
+    </div>
+
+    <footer>
+
+    </footer>
+
+</body>
+
+</html>
